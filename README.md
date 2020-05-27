@@ -37,7 +37,7 @@ Runs on the [Blimp](http://kelda.io) cloud. To boot locally instead, install
 
 ## Interacting With Kafka
 
-The Kafka instance is accessible at `localhost:9093`, and you can interact with
+The Kafka instance is accessible at `localhost:9092`, and you can interact with
 it as if it were running locally.
 
 You can also [add services](https://kelda.io/blimp/docs/config/) to the
